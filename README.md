@@ -7,7 +7,7 @@ This is the Marble Race assignment for the Graphics for Games and Dynamics Model
 ## Run the sketch
 
 1. Install [Processing](https://processing.org/) (3.x or 4.x with P3D).
-2. File → Open → `MarbleRace/MarbleRace/MarbleRace.pde`.
+2. File → Open → `Graphics for Games and Dynamics Modelling/MarbleRace/MarbleRace/MarbleRace.pde`.
 3. Click Run. The window is 1000×800 and resizable.
 
 ## Controls
@@ -33,7 +33,7 @@ The overlay shows race status, a live leaderboard, and finish times once marbles
 
 ## Project files
 
-All tabs live in `MarbleRace/MarbleRace/`. Processing treats them as one sketch.
+The course folder is `Graphics for Games and Dynamics Modelling/`. All Processing tabs live in `Graphics for Games and Dynamics Modelling/MarbleRace/MarbleRace/`. Processing treats them as one sketch. `MarbleRace.zip` is the same sketch as an archive. The demo video is omitted because it is over GitHub’s 100 MB file limit.
 
 | File | Role |
 | --- | --- |

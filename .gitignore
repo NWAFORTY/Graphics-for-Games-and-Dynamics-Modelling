@@ -1,6 +1,5 @@
 ﻿# Ignore large media (GitHub file limit is 100 MB)
 *.mp4
 Marbleracedemo.mp4
-MarbleRace.zip
 .DS_Store
 Thumbs.db
