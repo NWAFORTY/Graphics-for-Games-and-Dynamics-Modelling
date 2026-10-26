@@ -4,6 +4,8 @@
 
 This is the Marble Race assignment for the Graphics for Games and Dynamics Modelling module. The sketch combines 3D rendering (P3D lighting, cameras, meshes) with a custom dynamics solver (gravity, friction, multi-pass collisions).
 
+**Presentation (YouTube):** [https://youtu.be/WOLUoKAcDPc](https://youtu.be/WOLUoKAcDPc)
+
 ## Run the sketch
 
 1. Install [Processing](https://processing.org/) (3.x or 4.x with P3D).
@@ -33,10 +35,11 @@ The overlay shows race status, a live leaderboard, and finish times once marbles
 
 ## Project files
 
-The course folder is `Graphics for Games and Dynamics Modelling/`. All Processing tabs live in `Graphics for Games and Dynamics Modelling/MarbleRace/MarbleRace/`. Processing treats them as one sketch. `MarbleRace.zip` is the same sketch as an archive. The demo video is omitted because it is over GitHub’s 100 MB file limit.
+The course folder is `Graphics for Games and Dynamics Modelling/`. All Processing tabs live in `Graphics for Games and Dynamics Modelling/MarbleRace/MarbleRace/`. Processing treats them as one sketch. `MarbleRace.zip` is the same sketch as an archive. The demo video is omitted because it is over GitHub’s 100 MB file limit — watch the [YouTube presentation](https://youtu.be/WOLUoKAcDPc) instead.
 
 | File | Role |
 | --- | --- |
+| [Presentation](https://youtu.be/WOLUoKAcDPc) | YouTube video for the Graphics for Games and Dynamics Modelling presentation |
 | `MarbleRace.pde` | Game: track layout, HUD, race rules, marble physics and collisions |
 | `Sim3DObjects.pde` | Scene solids: spheres, boxes, meshes, transforms, extents |
 | `SimIntersections.pde` | Hit tests (sphere, box, mesh, ray, triangle) |
