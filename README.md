@@ -2,7 +2,7 @@
 
 **3D marble race in Processing:** eight named marbles drop onto a tilted wooden track, bounce off walls, bumps, and pillars, and race to a checkered finish while a HUD tracks places and times.
 
-This is the Marble Race assignment for the Graphics for Games and Dynamics Modelling module. The sketch combines 3D rendering (P3D lighting, cameras, meshes) with a custom dynamics solver (gravity, friction, multi-pass collisions).
+3D graphics and dynamics module project. The sketch uses P3D lighting, cameras and meshes, plus a custom collision solver (sub-steps, marbles vs track, obstacles and each other).
 
 **Presentation (YouTube):** [https://youtu.be/WOLUoKAcDPc](https://youtu.be/WOLUoKAcDPc)
 
